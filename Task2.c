@@ -39,7 +39,7 @@ int main() {
     } else if (inputScale == 'C') {
         // do nothin, we're already golden baby
     } else {
-        printf("Invalid input scale!\n");
+        printf("Invalid input!\n");
         return 0;
     }
 
